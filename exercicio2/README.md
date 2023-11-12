@@ -3,10 +3,10 @@
 Faça um programa que pergunte ao usuário dois números. Em seguida, faça as operações e imprima no console as seguintes mensagens seguidas pelo `true` ou `false`:
 
 ```
-O primeiro numero é maior que o segundo? true
-O primeiro numero é igual ao segundo? false
-O primeiro numero é divisível pelo segundo? true
-O segundo numero é divisível pelo primeiro? true
+a) O primeiro numero é maior que o segundo? true
+b) O primeiro numero é igual ao segundo? false
+c) O primeiro numero é divisível pelo segundo? true
+d) O segundo numero é divisível pelo primeiro? true
 
 divisível = com resto zero
 
