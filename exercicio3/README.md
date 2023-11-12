@@ -1,6 +1,5 @@
 # Exercício 03
 
-### Parte 1
 Escreva as operações lógicas abaixo em formato de código. Imprima no console se o valor da operação é verdadeiro ou falso:
 
 a) 5 é maior que 20 e também é menor que 2;
