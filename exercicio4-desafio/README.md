@@ -22,7 +22,7 @@
 ```
 Dados para ter como base:
 
-- Auxílio creche por filho:  R$45,50
+- Auxílio creche por filho:  R$ 45,50
 
 - Comissão de 10% sobre o total de vendas mensal
 
@@ -35,7 +35,7 @@ Dados para ter como base:
     - Maio: R$ 7.000,00
     - Junho: R$ 9.450,00
 
-- Desconto do INSS 5% do salário
+- Desconto do INSS: 5% do salário
 ```
 
 ### Calcule:
