@@ -48,6 +48,7 @@ Dados para ter como base:
 
 4) Imprima no console o cálculo do salário de todos os meses com acréscimos e descontos, ou seja, o valor líquido.
 
-5) A média do salário líquido em  seis meses (de janeiro a junho). 
+5) A média do salário líquido em  seis meses (de janeiro a junho).
+<br>
   ```Dica: a média aritmética é calculada somando um grupo de números e dividindo pela quantidade de elementos somados. Por exemplo, a soma de 2, 3, 3, 5, 7 e 10 é igual a 30, dividido por 6, dará média 5```
 
