@@ -2,7 +2,7 @@
 
 #### Uma empresa pediu que vocês fizessem um programa pra calcular alguns dados que eles possuem. De acordo com os dados do funcionário abaixo, façam os cálculos solicitados na questão.
 
-```
+
 **Nome:** Pedrinho da Silva
 <br>
 **CPF:** 000.000.000-00
@@ -16,15 +16,15 @@
 **Cargo:** Vendedor<br>Salário: 2.000,00 reais
 <br>
 **Comissão:** 10% sobre o total de vendas no mês
+
 ```
+Dados para ter como base:
 
-Levando em consideração os dados abaixo, calcule o salário de Fulano da Silva (itens 1 a 5):
+- Auxílio creche por filho:  R$45,50
 
-a) Auxílio creche por filho:  R$45,50
+- Comissão de 10% sobre o total de vendas mensal
 
-b) Comissão de 10% sobre o total de vendas mensal
-
-c) Total de vendas dos meses de janeiro a junho:
+- Total de vendas dos meses de janeiro a junho:
 
     - Janeiro: R$ 5.784,50
     - Fevereiro: R$ 3.418,41
@@ -33,9 +33,10 @@ c) Total de vendas dos meses de janeiro a junho:
     - Maio: R$ 7.000,00
     - Junho: R$ 9.450,00
 
-d)  Desconto do INSS 5% do salário
+- Desconto do INSS 5% do salário
+```
 
-Calcule:
+### Calcule:
 
 1) O salário fixo mais o auxílio creche
 
