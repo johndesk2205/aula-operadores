@@ -13,7 +13,9 @@
 <br>
 **Possui filhos?** 2 filhos
 <br>
-**Cargo:** Vendedor<br>Salário: 2.000,00 reais
+**Cargo:** Vendedor
+<br>
+**Salário:** 2.000,00 reais
 <br>
 **Comissão:** 10% sobre o total de vendas no mês
 
