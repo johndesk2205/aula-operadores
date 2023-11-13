@@ -8,7 +8,8 @@ b) O primeiro numero é igual ao segundo? false
 c) O primeiro numero é divisível pelo segundo? true
 d) O segundo numero é divisível pelo primeiro? true
 
-divisível = com resto zero
+
+Dica: divisível = com resto zero
 
 Obs: A resposta (true ou false) vai depender dos números inseridos e do resultado das operações. As respostas colocadas acima são apenas exemplos!
 ```
