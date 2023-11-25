@@ -44,9 +44,9 @@ Dados para ter como base:
 
 2) Quanto Pedrinho da Silva receberá de comissão em janeiro (dica: para calcular 20% de algum valor fazemos o cálculo: valor*0.2)
 
-3) Quanto Pedrinho da Silva será descontado em janeiro pelo INSS (o valor a ser calculado deve levar em consideração o salário + porcentagem de vendas)
+3) Quanto de Pedrinho da Silva será descontado em janeiro pelo INSS (o valor a ser calculado deve levar em consideração o salário + porcentagem de vendas)
 
-4) Imprima no console o cálculo do salário de todos os meses com acréscimos e descontos, ou seja, o valor líquido.
+4) Imprima no console o cálculo do salário de todos os meses com acréscimos e descontos, ou seja, o valor líquido(Lembrando que o INSS só é descontado sobre o valor de salário mais a comissão).
 
 5) A média do salário líquido em  seis meses (de janeiro a junho).
 
